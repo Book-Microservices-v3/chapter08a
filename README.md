@@ -6,7 +6,7 @@ The book follows a pragmatic approach to building a Microservice Architecture. Y
 
 The Chapter 8's source code is divided into four parts for a better understanding of how the system evolves when we start introducing _Common Patterns in Microservice Architectures_.
 
-In this first part, we introduce the Gateway pattern, that helps abstracting the internal architecture from the outside by routing external requests to the corresponding microservice. In the [next iteration (2/4)](https://github.com/Book-Microservices-v2/chapter08b), we'll also add Service Discovery and Load Balancing.
+In this first part, we introduce the Gateway pattern, that helps abstracting the internal architecture from the outside by routing external requests to the corresponding microservice. In the [next iteration (2/4)](https://github.com/Book-Microservices-v3/chapter08b), we'll also add Service Discovery and Load Balancing.
 
 ![Logical View - Chapter 8 1/4](resources/microservice_patterns-GW-concept.png)
 
