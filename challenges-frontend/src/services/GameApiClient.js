@@ -1,5 +1,5 @@
 class GameApiClient {
-    static SERVER_URL = 'https://cautious-system-p7j5qp97vcrg6v-8000.app.github.dev';
+    static SERVER_URL = 'http://localhost:8000';
     static GET_LEADERBOARD = '/leaders';
 
     static leaderBoard(): Promise<Response> {
