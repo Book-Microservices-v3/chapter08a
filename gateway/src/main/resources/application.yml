@@ -27,6 +27,6 @@ spring:
         - DedupeResponseHeader=Access-Control-Allow-Origin Access-Control-Allow-Credentials, RETAIN_UNIQUE
 
 # Uncomment the configuration below if you want to enable route matching logs
-logging:
-  level:
-    org.springframework.cloud.gateway.handler.predicate: trace
+#logging:
+#  level:
+#    org.springframework.cloud.gateway.handler.predicate: trace
